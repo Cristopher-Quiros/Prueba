@@ -1,0 +1,2 @@
+12345,Juan Vargas,27,JV123,juan46V@gmail.com,0
+101,Susan Villegas,20,Sus7634,susan21@gmail.com,1
